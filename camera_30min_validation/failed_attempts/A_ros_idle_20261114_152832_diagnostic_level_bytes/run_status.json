@@ -1,0 +1,10 @@
+{
+  "case": "A",
+  "status": "FAILED",
+  "reason": "ValueError(\"invalid literal for int() with base 10: b'\\\\x00'\")",
+  "requested_duration_s": 1800.0,
+  "actual_elapsed_s": 0.19997328199679032,
+  "frame_count": 3,
+  "physical_commands": 0,
+  "valid_30min_result": false
+}

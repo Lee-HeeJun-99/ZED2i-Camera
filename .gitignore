@@ -1,0 +1,64 @@
+data/runs/*
+!data/runs/.gitkeep
+data/rosbags/*
+!data/rosbags/.gitkeep
+logs/*
+!logs/.gitkeep
+__pycache__/
+*.pyc
+
+
+# ZED2i Camera - Raw Data
+data/
+datasets/
+recordings/
+captures/
+raw_data/
+output/
+outputs/
+
+# Camera recordings
+*.svo
+*.svo2
+*.avi
+*.mp4
+*.mkv
+*.bag
+*.db3
+*.mcap
+
+# Image frames
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+
+# Large array data
+*.npy
+*.npz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.cache
+*.log
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Keep documentation and summary results
+!README.md
+!*.md
+!*.json
+!*.csv
+!*.yaml
+!*.yml

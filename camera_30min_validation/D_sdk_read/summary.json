@@ -1,0 +1,94 @@
+{
+  "case": "D",
+  "status": "COMPLETE",
+  "failure_reason": null,
+  "valid_30min_result": true,
+  "duration_s": 1800,
+  "total_frames": 27006,
+  "average_fps": 15.003333333333334,
+  "receive_gap_s": {
+    "mean": 0.06665341321062765,
+    "median": 0.033529704000102356,
+    "p95": 0.16720456440234557,
+    "p99": 0.300143054779619,
+    "max": 0.7000930810172576
+  },
+  "source_gap_s": {
+    "mean": 0.06665610235016824,
+    "median": 0.03345894813537598,
+    "p95": 0.16686606407165527,
+    "p99": 0.3000418758392334,
+    "max": 0.7000300884246826
+  },
+  "source_age_s": {
+    "mean": 0.03099568945332332,
+    "median": 0.030917882919311523,
+    "p95": 0.033112406730651855,
+    "p99": 0.03364797830581665,
+    "max": 0.10280561447143555
+  },
+  "gap_counts": {
+    "0.1": 6066,
+    "0.3": 315,
+    "0.5": 30,
+    "1.0": 0,
+    "2.0": 0
+  },
+  "source_timestamp_nonincreasing": 0,
+  "sequence_nonconsecutive_events": 0,
+  "sequence_discontinuity_caveat": "Sequence discontinuities are not asserted to be sensor frame loss.",
+  "v4l2_error_flags": 0,
+  "inference_count": 0,
+  "inference_errors": 0,
+  "inferences_per_second": 0.0,
+  "inference_duration_s": {
+    "mean": null,
+    "median": null,
+    "p95": null,
+    "p99": null,
+    "max": null
+  },
+  "camera_age_at_inference_start_s": {
+    "mean": null,
+    "median": null,
+    "p95": null,
+    "p99": null,
+    "max": null
+  },
+  "inference_intervals_overlapping_receive_gap_ge_100ms": 0,
+  "overlap_caveat": "Temporal overlap is not proof that inference caused the receive gap.",
+  "sdk_reported_capture_hz": {
+    "mean": null,
+    "median": null,
+    "p95": null,
+    "p99": null,
+    "max": null
+  },
+  "sdk_frame_drop_first": null,
+  "sdk_frame_drop_last": null,
+  "cpu_gap_pearson_descriptive": 0.2458001964057239,
+  "gpu_gap_pearson_descriptive": 0.19103830982954886,
+  "correlation_caveat": "Descriptive temporal association only; not causal evidence.",
+  "thirds": [
+    {
+      "range_s": "0-600",
+      "mean_fps": 16.47833333333333,
+      "max_receive_gap_s": 0.6336756899836473,
+      "gap_ge_100ms": 1884
+    },
+    {
+      "range_s": "600-1200",
+      "mean_fps": 14.388333333333334,
+      "max_receive_gap_s": 0.6336877800058573,
+      "gap_ge_100ms": 2075
+    },
+    {
+      "range_s": "1200-1800",
+      "mean_fps": 14.143333333333333,
+      "max_receive_gap_s": 0.7000930810172576,
+      "gap_ge_100ms": 2107
+    }
+  ],
+  "unsupported_value_semantics": "Empty CSV field or JSON null means NOT_AVAILABLE; see failure_reason.",
+  "physical_commands": 0
+}

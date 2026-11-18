@@ -1,0 +1,17 @@
+{
+  "status": "RESTORED",
+  "model_server_started_for_experiment": "OFT 127.0.0.1:8765 GPU0",
+  "model_server_final_state": "STOPPED_BY_SIGINT",
+  "zed_ros_original_command": "ros2 launch zed_wrapper zed_camera.launch.py camera_model:=zed2i",
+  "zed_ros_final_launch_pid": 341547,
+  "zed_ros_final_container_pid": 341580,
+  "camera_model": "ZED 2i",
+  "serial_number": 32950075,
+  "camera_firmware": 1523,
+  "sensor_firmware": 777,
+  "mode": "HD720@30",
+  "image_format": "BGRA 32-bit",
+  "depth_mode": "NONE",
+  "robot_process_modified": false,
+  "physical_commands": 0
+}

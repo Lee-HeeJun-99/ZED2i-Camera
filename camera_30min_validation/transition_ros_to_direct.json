@@ -1,0 +1,11 @@
+{
+  "recorded_at": "2026-11-14T17:40:00+09:00",
+  "action": "SIGINT_ZED_ROS_LAUNCH_ONLY",
+  "target_pid": 176659,
+  "target_command": "/usr/bin/python3 /opt/ros/humble/bin/ros2 launch zed_wrapper zed_camera.launch.py camera_model:=zed2i",
+  "child_camera_container_pid": 176676,
+  "reason": "D-H require exclusive direct camera access; prevent simultaneous SDK/V4L2 ownership",
+  "model_server_restarted": false,
+  "robot_process_modified": false,
+  "physical_commands": 0
+}

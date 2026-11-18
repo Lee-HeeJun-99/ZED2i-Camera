@@ -1,0 +1,10 @@
+{
+  "case": "B",
+  "status": "FAILED",
+  "reason": "RCLError('failed to shutdown: rcl_shutdown already called on the given context, at ./src/rcl/init.c:241')",
+  "requested_duration_s": 1800.0,
+  "actual_elapsed_s": 214.41645385097945,
+  "frame_count": 5105,
+  "physical_commands": 0,
+  "valid_30min_result": false
+}

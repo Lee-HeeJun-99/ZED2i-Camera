@@ -1,0 +1,857 @@
+receive_monotonic_s,name,level,message,key,value
+240652.709997107,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240652.709997107,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.7 Hz (62.4%)
+240652.709997107,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.053425 sec (Max. 0.033 sec)
+240652.709997107,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20475/79560 (25.7353%)
+240653.704812814,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240653.704812814,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.6 Hz (55.5%)
+240653.704812814,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.060066 sec (Max. 0.033 sec)
+240653.704812814,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20485/79588 (25.7388%)
+240654.704785455,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240654.704785455,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 19.5 Hz (65.1%)
+240654.704785455,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.051166 sec (Max. 0.033 sec)
+240654.704785455,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20495/79618 (25.7417%)
+240655.704936728,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240655.704936728,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.8 Hz (62.6%)
+240655.704936728,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.053281 sec (Max. 0.033 sec)
+240655.704936728,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20509/79648 (25.7495%)
+240656.704470327,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240656.704470327,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.7%)
+240656.704470327,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057769 sec (Max. 0.033 sec)
+240656.704470327,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20521/79676 (25.7556%)
+240657.704576264,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240657.704576264,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.8 Hz (62.6%)
+240657.704576264,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.053261 sec (Max. 0.033 sec)
+240657.704576264,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20531/79707 (25.7581%)
+240658.70441763,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240658.70441763,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.8 Hz (62.5%)
+240658.70441763,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.053306 sec (Max. 0.033 sec)
+240658.70441763,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20545/79740 (25.765%)
+240659.704373844,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240659.704373844,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.7%)
+240659.704373844,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057773 sec (Max. 0.033 sec)
+240659.704373844,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20559/79770 (25.7728%)
+240660.704452102,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240660.704452102,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.7 Hz (55.6%)
+240660.704452102,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.059941 sec (Max. 0.033 sec)
+240660.704452102,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20569/79796 (25.777%)
+240661.704453275,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240661.704453275,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.5 Hz (51.7%)
+240661.704453275,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.064408 sec (Max. 0.033 sec)
+240661.704453275,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20587/79829 (25.7889%)
+240662.704429117,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240662.704429117,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.5 Hz (51.7%)
+240662.704429117,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.064444 sec (Max. 0.033 sec)
+240662.704429117,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20601/79860 (25.7964%)
+240663.704395201,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240663.704395201,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.0 Hz (60.0%)
+240663.704395201,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.055529 sec (Max. 0.033 sec)
+240663.704395201,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20613/79890 (25.8017%)
+240664.704326867,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240664.704326867,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.5 Hz (51.7%)
+240664.704326867,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.064457 sec (Max. 0.033 sec)
+240664.704326867,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20629/79920 (25.8121%)
+240665.704306558,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240665.704306558,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 19.6 Hz (65.2%)
+240665.704306558,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.051119 sec (Max. 0.033 sec)
+240665.704306558,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20637/79950 (25.8124%)
+240666.705246879,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240666.705246879,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.8 Hz (62.5%)
+240666.705246879,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.053324 sec (Max. 0.033 sec)
+240666.705246879,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20649/79980 (25.8177%)
+240667.704493778,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240667.704493778,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.7%)
+240667.704493778,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057769 sec (Max. 0.033 sec)
+240667.704493778,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20661/80008 (25.8237%)
+240668.706862838,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240668.706862838,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.0 Hz (59.9%)
+240668.706862838,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.055644 sec (Max. 0.033 sec)
+240668.706862838,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20671/80040 (25.8258%)
+240669.704583464,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240669.704583464,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.8 Hz (62.5%)
+240669.704583464,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.053321 sec (Max. 0.033 sec)
+240669.704583464,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20683/80070 (25.8311%)
+240670.704755046,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240670.704755046,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.7 Hz (62.4%)
+240670.704755046,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.053399 sec (Max. 0.033 sec)
+240670.704755046,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20695/80100 (25.8365%)
+240671.704420194,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240671.704420194,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.0 Hz (60.0%)
+240671.704420194,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.055542 sec (Max. 0.033 sec)
+240671.704420194,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20707/80130 (25.8418%)
+240672.704423532,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240672.704423532,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.0 Hz (60.1%)
+240672.704423532,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.055485 sec (Max. 0.033 sec)
+240672.704423532,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20719/80160 (25.8471%)
+240673.704405081,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240673.704405081,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.7 Hz (55.6%)
+240673.704405081,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.059925 sec (Max. 0.033 sec)
+240673.704405081,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20733/80190 (25.8548%)
+240674.704466755,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240674.704466755,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.7 Hz (55.5%)
+240674.704466755,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.060005 sec (Max. 0.033 sec)
+240674.704466755,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20743/80216 (25.8589%)
+240675.704302633,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240675.704302633,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.7%)
+240675.704302633,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057757 sec (Max. 0.033 sec)
+240675.704302633,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20759/80250 (25.8679%)
+240676.704653369,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240676.704653369,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.7 Hz (55.7%)
+240676.704653369,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.059846 sec (Max. 0.033 sec)
+240676.704653369,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20773/80280 (25.8757%)
+240677.704798703,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240677.704798703,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.5 Hz (51.8%)
+240677.704798703,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.064397 sec (Max. 0.033 sec)
+240677.704798703,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20787/80309 (25.8838%)
+240678.704748518,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240678.704748518,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.5 Hz (51.7%)
+240678.704748518,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.064444 sec (Max. 0.033 sec)
+240678.704748518,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20801/80338 (25.8919%)
+240679.704816328,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240679.704816328,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.7 Hz (55.6%)
+240679.704816328,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.059940 sec (Max. 0.033 sec)
+240679.704816328,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20815/80369 (25.8993%)
+240680.704472252,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240680.704472252,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.0 Hz (60.1%)
+240680.704472252,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.055456 sec (Max. 0.033 sec)
+240680.704472252,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20825/80396 (25.903%)
+240681.704473108,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240681.704473108,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.7%)
+240681.704473108,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057758 sec (Max. 0.033 sec)
+240681.704473108,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20839/80428 (25.9101%)
+240682.704335232,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240682.704335232,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.0 Hz (60.1%)
+240682.704335232,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.055481 sec (Max. 0.033 sec)
+240682.704335232,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20853/80460 (25.9172%)
+240683.704356656,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240683.704356656,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.7%)
+240683.704356656,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057754 sec (Max. 0.033 sec)
+240683.704356656,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20865/80490 (25.9225%)
+240684.704431554,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240684.704431554,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 20.5 Hz (68.2%)
+240684.704431554,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.048832 sec (Max. 0.033 sec)
+240684.704431554,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20875/80520 (25.9252%)
+240685.704439289,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240685.704439289,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 20.4 Hz (68.2%)
+240685.704439289,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.048889 sec (Max. 0.033 sec)
+240685.704439289,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20885/80550 (25.928%)
+240686.704328363,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240686.704328363,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 19.5 Hz (65.2%)
+240686.704328363,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.051143 sec (Max. 0.033 sec)
+240686.704328363,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20895/80580 (25.9308%)
+240687.70437352,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240687.70437352,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.7 Hz (55.6%)
+240687.70437352,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.059952 sec (Max. 0.033 sec)
+240687.70437352,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20909/80610 (25.9385%)
+240688.704897289,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240688.704897289,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.5 Hz (51.6%)
+240688.704897289,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.064567 sec (Max. 0.033 sec)
+240688.704897289,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20923/80640 (25.9462%)
+240689.704472333,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240689.704472333,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 19.6 Hz (65.2%)
+240689.704472333,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.051100 sec (Max. 0.033 sec)
+240689.704472333,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20935/80670 (25.9514%)
+240690.704666647,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240690.704666647,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 19.6 Hz (65.2%)
+240690.704666647,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.051094 sec (Max. 0.033 sec)
+240690.704666647,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20945/80699 (25.9545%)
+240691.704525431,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240691.704525431,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.5 Hz (51.7%)
+240691.704525431,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.064466 sec (Max. 0.033 sec)
+240691.704525431,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20963/80729 (25.9671%)
+240692.704774614,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240692.704774614,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.0 Hz (50.0%)
+240692.704774614,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.066686 sec (Max. 0.033 sec)
+240692.704774614,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20975/80758 (25.9727%)
+240693.704447016,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240693.704447016,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 19.5 Hz (65.1%)
+240693.704447016,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.051222 sec (Max. 0.033 sec)
+240693.704447016,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20983/80790 (25.9723%)
+240694.704762242,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240694.704762242,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 22.5 Hz (75.1%)
+240694.704762242,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.044402 sec (Max. 0.033 sec)
+240694.704762242,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,20987/80817 (25.9685%)
+240695.705989902,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240695.705989902,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.7 Hz (62.4%)
+240695.705989902,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.053371 sec (Max. 0.033 sec)
+240695.705989902,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21003/80850 (25.9777%)
+240696.704431856,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240696.704431856,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.8%)
+240696.704431856,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057679 sec (Max. 0.033 sec)
+240696.704431856,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21013/80877 (25.9814%)
+240697.704480663,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240697.704480663,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.7 Hz (55.6%)
+240697.704480663,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.059974 sec (Max. 0.033 sec)
+240697.704480663,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21027/80906 (25.9894%)
+240698.704496524,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240698.704496524,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.1 Hz (53.6%)
+240698.704496524,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.062184 sec (Max. 0.033 sec)
+240698.704496524,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21043/80939 (25.9986%)
+240699.704446386,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240699.704446386,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 14.1 Hz (46.8%)
+240699.704446386,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.071154 sec (Max. 0.033 sec)
+240699.704446386,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21061/80970 (26.0109%)
+240700.704387612,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240700.704387612,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.7 Hz (55.5%)
+240700.704387612,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.060013 sec (Max. 0.033 sec)
+240700.704387612,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21071/81000 (26.0136%)
+240701.708525531,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240701.708525531,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 20.4 Hz (68.1%)
+240701.708525531,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.048905 sec (Max. 0.033 sec)
+240701.708525531,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21081/81030 (26.0163%)
+240702.705058422,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240702.705058422,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 20.5 Hz (68.2%)
+240702.705058422,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.048861 sec (Max. 0.033 sec)
+240702.705058422,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21091/81059 (26.0193%)
+240703.705034219,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240703.705034219,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 20.4 Hz (68.1%)
+240703.705034219,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.048916 sec (Max. 0.033 sec)
+240703.705034219,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21101/81089 (26.022%)
+240704.706018014,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240704.706018014,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 21.4 Hz (71.5%)
+240704.706018014,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.046630 sec (Max. 0.033 sec)
+240704.706018014,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21109/81120 (26.0219%)
+240705.70473714,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240705.70473714,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 20.4 Hz (68.1%)
+240705.70473714,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.048904 sec (Max. 0.033 sec)
+240705.70473714,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21121/81149 (26.0274%)
+240706.704723737,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240706.704723737,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 19.6 Hz (65.4%)
+240706.704723737,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.050949 sec (Max. 0.033 sec)
+240706.704723737,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21131/81180 (26.0298%)
+240707.704566295,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240707.704566295,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.8 Hz (62.5%)
+240707.704566295,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.053317 sec (Max. 0.033 sec)
+240707.704566295,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21145/81210 (26.0374%)
+240708.704616275,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240708.704616275,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 21.4 Hz (71.4%)
+240708.704616275,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.046667 sec (Max. 0.033 sec)
+240708.704616275,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21153/81240 (26.0377%)
+240709.705027523,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240709.705027523,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 21.4 Hz (71.4%)
+240709.705027523,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.046705 sec (Max. 0.033 sec)
+240709.705027523,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21165/81270 (26.0428%)
+240710.704505063,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240710.704505063,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.8 Hz (62.5%)
+240710.704505063,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.053318 sec (Max. 0.033 sec)
+240710.704505063,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21177/81299 (26.0483%)
+240711.704538065,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240711.704538065,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 19.6 Hz (65.2%)
+240711.704538065,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.051136 sec (Max. 0.033 sec)
+240711.704538065,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21187/81326 (26.0519%)
+240712.704348398,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240712.704348398,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.1 Hz (53.6%)
+240712.704348398,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.062135 sec (Max. 0.033 sec)
+240712.704348398,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21205/81360 (26.0632%)
+240713.704360353,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240713.704360353,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.1 Hz (53.6%)
+240713.704360353,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.062138 sec (Max. 0.033 sec)
+240713.704360353,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21217/81390 (26.0683%)
+240714.704351348,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240714.704351348,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.7%)
+240714.704351348,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057712 sec (Max. 0.033 sec)
+240714.704351348,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21229/81420 (26.0734%)
+240715.704321306,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240715.704321306,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.1 Hz (53.5%)
+240715.704321306,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.062248 sec (Max. 0.033 sec)
+240715.704321306,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21243/81450 (26.081%)
+240716.708956271,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240716.708956271,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 19.5 Hz (65.1%)
+240716.708956271,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.051184 sec (Max. 0.033 sec)
+240716.708956271,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21251/81480 (26.0812%)
+240717.709225245,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240717.709225245,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 18.7 Hz (62.4%)
+240717.709225245,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.053367 sec (Max. 0.033 sec)
+240717.709225245,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21265/81510 (26.0888%)
+240718.704561589,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240718.704561589,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.0 Hz (50.0%)
+240718.704561589,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.066712 sec (Max. 0.033 sec)
+240718.704561589,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21281/81539 (26.0992%)
+240719.704794869,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240719.704794869,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.8%)
+240719.704794869,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057667 sec (Max. 0.033 sec)
+240719.704794869,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21291/81569 (26.1018%)
+240720.704586736,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240720.704586736,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.6 Hz (55.5%)
+240720.704586736,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.060086 sec (Max. 0.033 sec)
+240720.704586736,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21307/81600 (26.1115%)
+240721.704764273,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240721.704764273,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 19.5 Hz (65.1%)
+240721.704764273,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.051159 sec (Max. 0.033 sec)
+240721.704764273,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21315/81628 (26.1124%)
+240722.70450097,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240722.70450097,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.1 Hz (53.6%)
+240722.70450097,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.062219 sec (Max. 0.033 sec)
+240722.70450097,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21333/81660 (26.1242%)
+240723.704312266,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240723.704312266,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 22.5 Hz (75.1%)
+240723.704312266,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.044354 sec (Max. 0.033 sec)
+240723.704312266,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21337/81690 (26.1195%)
+240724.704289612,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240724.704289612,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240724.704289612,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035527 sec (Max. 0.033 sec)
+240724.704289612,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21339/81720 (26.1123%)
+240725.704378213,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240725.704378213,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.6 Hz (88.5%)
+240725.704378213,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037653 sec (Max. 0.033 sec)
+240725.704378213,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21341/81750 (26.1052%)
+240726.70440731,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240726.70440731,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240726.70440731,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035535 sec (Max. 0.033 sec)
+240726.70440731,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21343/81780 (26.0981%)
+240727.704371757,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240727.704371757,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.2 Hz (93.9%)
+240727.704371757,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035509 sec (Max. 0.033 sec)
+240727.704371757,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21345/81810 (26.0909%)
+240728.704358847,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240728.704358847,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240728.704358847,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035554 sec (Max. 0.033 sec)
+240728.704358847,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21347/81840 (26.0838%)
+240729.704463866,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240729.704463866,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240729.704463866,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035582 sec (Max. 0.033 sec)
+240729.704463866,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21349/81870 (26.0767%)
+240730.704399322,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240730.704399322,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240730.704399322,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035544 sec (Max. 0.033 sec)
+240730.704399322,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21351/81900 (26.0696%)
+240731.704398634,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240731.704398634,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240731.704398634,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035550 sec (Max. 0.033 sec)
+240731.704398634,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21353/81930 (26.0625%)
+240732.704336723,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240732.704336723,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240732.704336723,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035550 sec (Max. 0.033 sec)
+240732.704336723,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21355/81960 (26.0554%)
+240733.704314484,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240733.704314484,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.2%)
+240733.704314484,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037790 sec (Max. 0.033 sec)
+240733.704314484,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21359/81990 (26.0507%)
+240734.704360496,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240734.704360496,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.1%)
+240734.704360496,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033308 sec (Max. 0.033 sec)
+240734.704360496,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21359/82020 (26.0412%)
+240735.704317303,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240735.704317303,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240735.704317303,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035526 sec (Max. 0.033 sec)
+240735.704317303,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21361/82050 (26.0341%)
+240736.704343148,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240736.704343148,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240736.704343148,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035564 sec (Max. 0.033 sec)
+240736.704343148,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21363/82080 (26.027%)
+240737.704348847,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240737.704348847,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240737.704348847,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035551 sec (Max. 0.033 sec)
+240737.704348847,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21365/82110 (26.02%)
+240738.704391808,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240738.704391808,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240738.704391808,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035554 sec (Max. 0.033 sec)
+240738.704391808,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21367/82140 (26.0129%)
+240739.704340058,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240739.704340058,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240739.704340058,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035566 sec (Max. 0.033 sec)
+240739.704340058,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21369/82170 (26.0058%)
+240740.704358079,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240740.704358079,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.1%)
+240740.704358079,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033296 sec (Max. 0.033 sec)
+240740.704358079,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21369/82200 (25.9964%)
+240741.704309454,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240741.704309454,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 29.9 Hz (99.8%)
+240741.704309454,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033384 sec (Max. 0.033 sec)
+240741.704309454,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21369/82230 (25.9869%)
+240742.70435774,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240742.70435774,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.1%)
+240742.70435774,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033299 sec (Max. 0.033 sec)
+240742.70435774,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21369/82260 (25.9774%)
+240743.704365404,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240743.704365404,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.1%)
+240743.704365404,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033301 sec (Max. 0.033 sec)
+240743.704365404,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21369/82290 (25.9679%)
+240744.704367166,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240744.704367166,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.2%)
+240744.704367166,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037783 sec (Max. 0.033 sec)
+240744.704367166,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21373/82320 (25.9633%)
+240745.704372059,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240745.704372059,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.0%)
+240745.704372059,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033320 sec (Max. 0.033 sec)
+240745.704372059,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21373/82350 (25.9539%)
+240746.704316938,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240746.704316938,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.6%)
+240746.704316938,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035588 sec (Max. 0.033 sec)
+240746.704316938,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21375/82380 (25.9468%)
+240747.704366306,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240747.704366306,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240747.704366306,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035572 sec (Max. 0.033 sec)
+240747.704366306,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21377/82410 (25.9398%)
+240748.704347676,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240748.704347676,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.5%)
+240748.704347676,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037678 sec (Max. 0.033 sec)
+240748.704347676,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21379/82440 (25.9328%)
+240749.704378465,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240749.704378465,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (99.9%)
+240749.704378465,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033364 sec (Max. 0.033 sec)
+240749.704378465,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21379/82470 (25.9234%)
+240750.704412584,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240750.704412584,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.2 Hz (93.9%)
+240750.704412584,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035498 sec (Max. 0.033 sec)
+240750.704412584,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21381/82500 (25.9164%)
+240751.704319692,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240751.704319692,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.3%)
+240751.704319692,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037725 sec (Max. 0.033 sec)
+240751.704319692,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21383/82530 (25.9094%)
+240752.70433182,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240752.70433182,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.2 Hz (93.9%)
+240752.70433182,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035504 sec (Max. 0.033 sec)
+240752.70433182,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21385/82560 (25.9024%)
+240753.704391659,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240753.704391659,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240753.704391659,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035530 sec (Max. 0.033 sec)
+240753.704391659,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21387/82590 (25.8954%)
+240754.704371735,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240754.704371735,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.4%)
+240754.704371735,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037701 sec (Max. 0.033 sec)
+240754.704371735,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21389/82620 (25.8884%)
+240755.704350592,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240755.704350592,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (99.9%)
+240755.704350592,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033364 sec (Max. 0.033 sec)
+240755.704350592,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21389/82650 (25.879%)
+240756.704421384,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240756.704421384,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240756.704421384,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035550 sec (Max. 0.033 sec)
+240756.704421384,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21391/82680 (25.872%)
+240757.704446142,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240757.704446142,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.2%)
+240757.704446142,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037799 sec (Max. 0.033 sec)
+240757.704446142,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21393/82710 (25.8651%)
+240758.704331936,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240758.704331936,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (99.9%)
+240758.704331936,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033350 sec (Max. 0.033 sec)
+240758.704331936,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21393/82740 (25.8557%)
+240759.704363208,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240759.704363208,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240759.704363208,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035549 sec (Max. 0.033 sec)
+240759.704363208,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21395/82770 (25.8487%)
+240760.704324748,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240760.704324748,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.0%)
+240760.704324748,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033337 sec (Max. 0.033 sec)
+240760.704324748,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21395/82800 (25.8394%)
+240761.704339908,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240761.704339908,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240761.704339908,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035539 sec (Max. 0.033 sec)
+240761.704339908,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21397/82830 (25.8324%)
+240762.704417044,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240762.704417044,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240762.704417044,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035544 sec (Max. 0.033 sec)
+240762.704417044,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21399/82860 (25.8255%)
+240763.705101791,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240763.705101791,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240763.705101791,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035561 sec (Max. 0.033 sec)
+240763.705101791,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21401/82890 (25.8186%)
+240764.704419546,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240764.704419546,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240764.704419546,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035550 sec (Max. 0.033 sec)
+240764.704419546,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21403/82920 (25.8116%)
+240765.704365403,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240765.704365403,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240765.704365403,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035564 sec (Max. 0.033 sec)
+240765.704365403,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21405/82950 (25.8047%)
+240766.70562451,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240766.70562451,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.6%)
+240766.70562451,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035606 sec (Max. 0.033 sec)
+240766.70562451,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21407/82980 (25.7978%)
+240767.704409008,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240767.704409008,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.2%)
+240767.704409008,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037770 sec (Max. 0.033 sec)
+240767.704409008,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21409/83010 (25.7909%)
+240768.704296774,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240768.704296774,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (99.9%)
+240768.704296774,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033353 sec (Max. 0.033 sec)
+240768.704296774,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21409/83040 (25.7816%)
+240769.704359988,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240769.704359988,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240769.704359988,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035548 sec (Max. 0.033 sec)
+240769.704359988,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21411/83070 (25.7746%)
+240770.70428151,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240770.70428151,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240770.70428151,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035579 sec (Max. 0.033 sec)
+240770.70428151,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21413/83100 (25.7677%)
+240771.704386548,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240771.704386548,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 25.0 Hz (83.5%)
+240771.704386548,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.039917 sec (Max. 0.033 sec)
+240771.704386548,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21417/83130 (25.7633%)
+240772.705387075,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240772.705387075,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.0%)
+240772.705387075,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033320 sec (Max. 0.033 sec)
+240772.705387075,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21417/83160 (25.754%)
+240773.704360447,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240773.704360447,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240773.704360447,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035543 sec (Max. 0.033 sec)
+240773.704360447,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21419/83190 (25.7471%)
+240774.704302515,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240774.704302515,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.1%)
+240774.704302515,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033303 sec (Max. 0.033 sec)
+240774.704302515,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21419/83220 (25.7378%)
+240775.705335951,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240775.705335951,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240775.705335951,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035529 sec (Max. 0.033 sec)
+240775.705335951,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21421/83250 (25.7309%)
+240776.704728031,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240776.704728031,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240776.704728031,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035551 sec (Max. 0.033 sec)
+240776.704728031,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21423/83280 (25.7241%)
+240777.704785982,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240777.704785982,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240777.704785982,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035545 sec (Max. 0.033 sec)
+240777.704785982,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21425/83310 (25.7172%)
+240778.704646122,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240778.704646122,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (99.9%)
+240778.704646122,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033365 sec (Max. 0.033 sec)
+240778.704646122,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21425/83340 (25.7079%)
+240779.704343262,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240779.704343262,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.2 Hz (93.9%)
+240779.704343262,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035493 sec (Max. 0.033 sec)
+240779.704343262,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21427/83370 (25.7011%)
+240780.70437584,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240780.70437584,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 25.0 Hz (83.3%)
+240780.70437584,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.040000 sec (Max. 0.033 sec)
+240780.70437584,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21431/83400 (25.6966%)
+240781.704487843,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240781.704487843,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (99.9%)
+240781.704487843,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033355 sec (Max. 0.033 sec)
+240781.704487843,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21431/83430 (25.6874%)
+240782.705138312,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240782.705138312,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.6%)
+240782.705138312,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035595 sec (Max. 0.033 sec)
+240782.705138312,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21433/83460 (25.6806%)
+240783.70497451,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240783.70497451,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240783.70497451,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035546 sec (Max. 0.033 sec)
+240783.70497451,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21435/83490 (25.6737%)
+240784.704962029,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240784.704962029,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.0%)
+240784.704962029,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033324 sec (Max. 0.033 sec)
+240784.704962029,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21435/83520 (25.6645%)
+240785.705038101,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240785.705038101,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240785.705038101,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035541 sec (Max. 0.033 sec)
+240785.705038101,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21437/83550 (25.6577%)
+240786.705577882,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240786.705577882,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240786.705577882,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035551 sec (Max. 0.033 sec)
+240786.705577882,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21439/83580 (25.6509%)
+240787.706069567,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240787.706069567,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240787.706069567,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035579 sec (Max. 0.033 sec)
+240787.706069567,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21441/83610 (25.6441%)
+240788.704393778,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240788.704393778,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240788.704393778,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035540 sec (Max. 0.033 sec)
+240788.704393778,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21443/83640 (25.6373%)
+240789.706879624,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240789.706879624,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.0%)
+240789.706879624,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033336 sec (Max. 0.033 sec)
+240789.706879624,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21443/83670 (25.6281%)
+240790.704350268,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240790.704350268,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240790.704350268,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035517 sec (Max. 0.033 sec)
+240790.704350268,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21445/83700 (25.6213%)
+240791.70428777,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240791.70428777,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.0%)
+240791.70428777,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033311 sec (Max. 0.033 sec)
+240791.70428777,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21445/83730 (25.6121%)
+240792.705609866,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240792.705609866,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.6%)
+240792.705609866,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035610 sec (Max. 0.033 sec)
+240792.705609866,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21447/83760 (25.6053%)
+240793.704663501,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240793.704663501,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 20.4 Hz (68.2%)
+240793.704663501,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.048899 sec (Max. 0.033 sec)
+240793.704663501,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21459/83790 (25.6105%)
+240794.704687492,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240794.704687492,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.6%)
+240794.704687492,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057837 sec (Max. 0.033 sec)
+240794.704687492,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21471/83820 (25.6156%)
+240795.704653404,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240795.704653404,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.6 Hz (55.5%)
+240795.704653404,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.060101 sec (Max. 0.033 sec)
+240795.704653404,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21483/83849 (25.6211%)
+240796.704494969,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240796.704494969,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.7 Hz (55.6%)
+240796.704494969,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.059939 sec (Max. 0.033 sec)
+240796.704494969,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21497/83877 (25.6292%)
+240797.705091007,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240797.705091007,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.1 Hz (53.5%)
+240797.705091007,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.062241 sec (Max. 0.033 sec)
+240797.705091007,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21513/83910 (25.6382%)
+240798.70448392,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240798.70448392,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.0 Hz (50.0%)
+240798.70448392,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.066611 sec (Max. 0.033 sec)
+240798.70448392,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21527/83936 (25.6469%)
+240799.704496553,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240799.704496553,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 14.1 Hz (46.9%)
+240799.704496553,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.071075 sec (Max. 0.033 sec)
+240799.704496553,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21545/83968 (25.6586%)
+240800.705319876,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240800.705319876,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.5 Hz (51.8%)
+240800.705319876,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.064399 sec (Max. 0.033 sec)
+240800.705319876,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21559/84000 (25.6655%)
+240801.704434411,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240801.704434411,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.7 Hz (55.6%)
+240801.704434411,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.059965 sec (Max. 0.033 sec)
+240801.704434411,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21573/84030 (25.673%)
+240802.705395028,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240802.705395028,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.0 Hz (50.0%)
+240802.705395028,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.066668 sec (Max. 0.033 sec)
+240802.705395028,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21589/84060 (25.6828%)
+240803.705402781,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240803.705402781,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.6 Hz (51.8%)
+240803.705402781,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.064292 sec (Max. 0.033 sec)
+240803.705402781,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21601/84090 (25.688%)
+240804.704539273,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240804.704539273,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.7%)
+240804.704539273,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057803 sec (Max. 0.033 sec)
+240804.704539273,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21615/84120 (25.6954%)
+240805.704766125,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240805.704766125,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 15.0 Hz (50.0%)
+240805.704766125,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.066685 sec (Max. 0.033 sec)
+240805.704766125,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21631/84150 (25.7053%)
+240806.704469315,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240806.704469315,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 16.7 Hz (55.6%)
+240806.704469315,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.059961 sec (Max. 0.033 sec)
+240806.704469315,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21643/84180 (25.7104%)
+240807.704544105,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240807.704544105,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 17.3 Hz (57.7%)
+240807.704544105,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.057802 sec (Max. 0.033 sec)
+240807.704544105,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21657/84209 (25.7182%)
+240808.70567545,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240808.70567545,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.3%)
+240808.70567545,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037736 sec (Max. 0.033 sec)
+240808.70567545,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21661/84240 (25.7134%)
+240809.705216995,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240809.705216995,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240809.705216995,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035549 sec (Max. 0.033 sec)
+240809.705216995,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21663/84270 (25.7067%)
+240810.70543097,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240810.70543097,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240810.70543097,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035572 sec (Max. 0.033 sec)
+240810.70543097,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21665/84300 (25.6999%)
+240811.705995286,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240811.705995286,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.0%)
+240811.705995286,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033313 sec (Max. 0.033 sec)
+240811.705995286,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21665/84330 (25.6907%)
+240812.7064855,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240812.7064855,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240812.7064855,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035551 sec (Max. 0.033 sec)
+240812.7064855,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21667/84360 (25.684%)
+240813.705343282,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240813.705343282,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.0%)
+240813.705343282,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033323 sec (Max. 0.033 sec)
+240813.705343282,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21667/84390 (25.6748%)
+240814.70572884,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240814.70572884,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.2%)
+240814.70572884,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037774 sec (Max. 0.033 sec)
+240814.70572884,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21671/84420 (25.6705%)
+240815.706118894,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240815.706118894,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240815.706118894,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035553 sec (Max. 0.033 sec)
+240815.706118894,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21673/84450 (25.6637%)
+240816.704382536,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240816.704382536,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240816.704382536,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035548 sec (Max. 0.033 sec)
+240816.704382536,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21675/84480 (25.657%)
+240817.707188085,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240817.707188085,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.1%)
+240817.707188085,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033307 sec (Max. 0.033 sec)
+240817.707188085,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21675/84510 (25.6479%)
+240818.704534396,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240818.704534396,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240818.704534396,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035578 sec (Max. 0.033 sec)
+240818.704534396,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21677/84540 (25.6411%)
+240819.704610288,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240819.704610288,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.6%)
+240819.704610288,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035612 sec (Max. 0.033 sec)
+240819.704610288,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21679/84570 (25.6344%)
+240820.704527266,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240820.704527266,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240820.704527266,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035553 sec (Max. 0.033 sec)
+240820.704527266,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21681/84600 (25.6277%)
+240821.704537211,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240821.704537211,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.6%)
+240821.704537211,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035586 sec (Max. 0.033 sec)
+240821.704537211,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21683/84630 (25.6209%)
+240822.704384872,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240822.704384872,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240822.704384872,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035543 sec (Max. 0.033 sec)
+240822.704384872,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21685/84660 (25.6142%)
+240823.704401244,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240823.704401244,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240823.704401244,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035568 sec (Max. 0.033 sec)
+240823.704401244,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21687/84690 (25.6075%)
+240824.704515239,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240824.704515239,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240824.704515239,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035525 sec (Max. 0.033 sec)
+240824.704515239,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21689/84720 (25.6008%)
+240825.704474893,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240825.704474893,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240825.704474893,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035554 sec (Max. 0.033 sec)
+240825.704474893,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21691/84750 (25.5941%)
+240826.704699159,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240826.704699159,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240826.704699159,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035526 sec (Max. 0.033 sec)
+240826.704699159,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21693/84780 (25.5874%)
+240827.704509792,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240827.704509792,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (99.9%)
+240827.704509792,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033376 sec (Max. 0.033 sec)
+240827.704509792,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21693/84810 (25.5784%)
+240828.704459232,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240828.704459232,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240828.704459232,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035550 sec (Max. 0.033 sec)
+240828.704459232,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21695/84840 (25.5717%)
+240829.708767331,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240829.708767331,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240829.708767331,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035554 sec (Max. 0.033 sec)
+240829.708767331,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21697/84870 (25.565%)
+240830.704515999,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240830.704515999,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.4 Hz (88.2%)
+240830.704515999,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037801 sec (Max. 0.033 sec)
+240830.704515999,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21701/84900 (25.5607%)
+240831.704544227,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240831.704544227,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.1%)
+240831.704544227,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033277 sec (Max. 0.033 sec)
+240831.704544227,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21701/84930 (25.5516%)
+240832.704481427,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240832.704481427,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240832.704481427,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035563 sec (Max. 0.033 sec)
+240832.704481427,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21703/84960 (25.545%)
+240833.704413068,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240833.704413068,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.2 Hz (93.9%)
+240833.704413068,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035477 sec (Max. 0.033 sec)
+240833.704413068,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21705/84990 (25.5383%)
+240834.704544154,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240834.704544154,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240834.704544154,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035548 sec (Max. 0.033 sec)
+240834.704544154,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21707/85020 (25.5316%)
+240835.704395701,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240835.704395701,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.6%)
+240835.704395701,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035599 sec (Max. 0.033 sec)
+240835.704395701,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21709/85050 (25.525%)
+240836.704534968,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240836.704534968,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.1%)
+240836.704534968,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033277 sec (Max. 0.033 sec)
+240836.704534968,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21709/85080 (25.516%)
+240837.704867404,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240837.704867404,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.0%)
+240837.704867404,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033316 sec (Max. 0.033 sec)
+240837.704867404,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21709/85110 (25.507%)
+240838.704474838,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240838.704474838,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240838.704474838,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035550 sec (Max. 0.033 sec)
+240838.704474838,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21711/85140 (25.5004%)
+240839.704566235,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240839.704566235,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240839.704566235,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035552 sec (Max. 0.033 sec)
+240839.704566235,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21713/85170 (25.4937%)
+240840.704809903,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240840.704809903,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240840.704809903,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035579 sec (Max. 0.033 sec)
+240840.704809903,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21715/85200 (25.4871%)
+240841.704506899,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240841.704506899,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240841.704506899,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035553 sec (Max. 0.033 sec)
+240841.704506899,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21717/85230 (25.4805%)
+240842.704672254,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240842.704672254,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240842.704672254,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035549 sec (Max. 0.033 sec)
+240842.704672254,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21719/85260 (25.4738%)
+240843.704453071,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240843.704453071,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (99.9%)
+240843.704453071,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033364 sec (Max. 0.033 sec)
+240843.704453071,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21719/85290 (25.4649%)
+240844.704728422,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240844.704728422,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240844.704728422,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035525 sec (Max. 0.033 sec)
+240844.704728422,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21721/85320 (25.4583%)
+240845.705455073,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240845.705455073,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240845.705455073,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035532 sec (Max. 0.033 sec)
+240845.705455073,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21721/85349 (25.4496%)
+240846.704496404,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240846.704496404,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.0 Hz (93.5%)
+240846.704496404,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035651 sec (Max. 0.033 sec)
+240846.704496404,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21725/85380 (25.4451%)
+240847.704576001,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240847.704576001,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.2 Hz (93.9%)
+240847.704576001,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035505 sec (Max. 0.033 sec)
+240847.704576001,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21725/85409 (25.4364%)
+240848.704595058,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240848.704595058,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.4%)
+240848.704595058,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037709 sec (Max. 0.033 sec)
+240848.704595058,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21729/85440 (25.4319%)
+240849.704690214,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240849.704690214,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.4%)
+240849.704690214,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037695 sec (Max. 0.033 sec)
+240849.704690214,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21731/85470 (25.4253%)
+240850.704974115,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240850.704974115,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.2 Hz (93.9%)
+240850.704974115,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035497 sec (Max. 0.033 sec)
+240850.704974115,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21731/85500 (25.4164%)
+240851.704532772,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240851.704532772,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.7%)
+240851.704532772,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035551 sec (Max. 0.033 sec)
+240851.704532772,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21735/85530 (25.4121%)
+240852.704484776,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240852.704484776,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240852.704484776,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035535 sec (Max. 0.033 sec)
+240852.704484776,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21735/85558 (25.4038%)
+240853.704771424,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240853.704771424,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.2%)
+240853.704771424,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037778 sec (Max. 0.033 sec)
+240853.704771424,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21739/85590 (25.399%)
+240854.704449822,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240854.704449822,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.5 Hz (88.2%)
+240854.704449822,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037777 sec (Max. 0.033 sec)
+240854.704449822,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21741/85620 (25.3924%)
+240855.704528508,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240855.704528508,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.0 Hz (100.1%)
+240855.704528508,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033306 sec (Max. 0.033 sec)
+240855.704528508,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21741/85648 (25.3841%)
+240856.704697975,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240856.704697975,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.4 Hz (88.1%)
+240856.704697975,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037835 sec (Max. 0.033 sec)
+240856.704697975,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21745/85680 (25.3793%)
+240857.704552435,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240857.704552435,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.0 Hz (93.5%)
+240857.704552435,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035659 sec (Max. 0.033 sec)
+240857.704552435,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21747/85710 (25.3728%)
+240858.704705522,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240858.704705522,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.6%)
+240858.704705522,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035609 sec (Max. 0.033 sec)
+240858.704705522,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21747/85739 (25.3642%)
+240859.704568451,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240859.704568451,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.4 Hz (88.1%)
+240859.704568451,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037832 sec (Max. 0.033 sec)
+240859.704568451,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21751/85770 (25.3597%)
+240860.704419669,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240860.704419669,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 30.1 Hz (100.2%)
+240860.704419669,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033263 sec (Max. 0.033 sec)
+240860.704419669,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21751/85800 (25.3508%)
+240861.704610292,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240861.704610292,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 29.9 Hz (99.8%)
+240861.704610292,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.033390 sec (Max. 0.033 sec)
+240861.704610292,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21751/85829 (25.3423%)
+240862.704356865,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240862.704356865,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 26.4 Hz (88.2%)
+240862.704356865,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.037803 sec (Max. 0.033 sec)
+240862.704356865,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21755/85860 (25.3378%)
+240863.704645585,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240863.704645585,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.6%)
+240863.704645585,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035604 sec (Max. 0.033 sec)
+240863.704645585,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21757/85890 (25.3312%)
+240864.704466482,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240864.704466482,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.1 Hz (93.8%)
+240864.704466482,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035540 sec (Max. 0.033 sec)
+240864.704466482,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21757/85920 (25.3224%)
+240865.704481551,zed_node: ZED 2i,0,Camera grabbing,Camera Grab rate,30 Hz
+240865.704481551,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Mean Frequency: 28.2 Hz (93.9%)
+240865.704481551,zed_node: ZED 2i,0,Camera grabbing,Data Capture,Tot. Processing Time: 0.035498 sec (Max. 0.033 sec)
+240865.704481551,zed_node: ZED 2i,0,Camera grabbing,Frame Drop rate,21759/85950 (25.3159%)

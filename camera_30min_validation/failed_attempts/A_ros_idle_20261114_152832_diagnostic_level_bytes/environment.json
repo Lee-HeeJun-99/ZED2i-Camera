@@ -1,0 +1,87 @@
+{
+  "collected_at": "2026-11-14T15:28:32+0900",
+  "case": "A",
+  "hostname": "scps1",
+  "kernel": "6.8.0-138-generic",
+  "python": "3.10.12",
+  "physical_commands": 0,
+  "command_clients_created": false,
+  "device": "/dev/video0",
+  "usb_tree": "/:  Bus 04.Port 1: Dev 1, Class=root_hub, Driver=xhci_hcd/2p, 10000M\n/:  Bus 03.Port 1: Dev 1, Class=root_hub, Driver=xhci_hcd/2p, 480M\n/:  Bus 02.Port 1: Dev 1, Class=root_hub, Driver=xhci_hcd/8p, 20000M/x2\n    |__ Port 7: Dev 6, If 0, Class=Hub, Driver=hub/1p, 5000M\n        |__ Port 1: Dev 7, If 0, Class=Hub, Driver=hub/1p, 5000M\n            |__ Port 1: Dev 11, If 1, Class=Video, Driver=uvcvideo, 5000M\n            |__ Port 1: Dev 11, If 0, Class=Video, Driver=uvcvideo, 5000M\n    |__ Port 8: Dev 3, If 0, Class=Hub, Driver=hub/4p, 5000M\n/:  Bus 01.Port 1: Dev 1, Class=root_hub, Driver=xhci_hcd/16p, 480M\n    |__ Port 2: Dev 2, If 4, Class=Audio, Driver=snd-usb-audio, 480M\n    |__ Port 2: Dev 2, If 2, Class=Audio, Driver=snd-usb-audio, 480M\n    |__ Port 2: Dev 2, If 0, Class=Audio, Driver=snd-usb-audio, 480M\n    |__ Port 2: Dev 2, If 7, Class=Human Interface Device, Driver=usbhid, 480M\n    |__ Port 2: Dev 2, If 5, Class=Audio, Driver=snd-usb-audio, 480M\n    |__ Port 2: Dev 2, If 3, Class=Audio, Driver=snd-usb-audio, 480M\n    |__ Port 2: Dev 2, If 1, Class=Audio, Driver=snd-usb-audio, 480M\n    |__ Port 2: Dev 2, If 6, Class=Audio, Driver=snd-usb-audio, 480M\n    |__ Port 8: Dev 14, If 0, Class=Hub, Driver=hub/4p, 480M\n        |__ Port 1: Dev 15, If 0, Class=Hub, Driver=hub/4p, 480M\n            |__ Port 1: Dev 18, If 0, Class=Hub, Driver=hub/2p, 480M\n                |__ Port 2: Dev 22, If 0, Class=Human Interface Device, Driver=usbfs, 12M\n    |__ Port 9: Dev 4, If 0, Class=Hub, Driver=hub/4p, 480M\n        |__ Port 2: Dev 20, If 0, Class=Human Interface Device, Driver=usbhid, 12M\n        |__ Port 2: Dev 20, If 1, Class=Human Interface Device, Driver=usbhid, 12M\n    |__ Port 10: Dev 5, If 2, Class=Human Interface Device, Driver=usbhid, 12M\n    |__ Port 10: Dev 5, If 0, Class=Vendor Specific Class, Driver=, 12M\n    |__ Port 13: Dev 8, If 0, Class=Hub, Driver=hub/4p, 480M\n        |__ Port 2: Dev 10, If 0, Class=Human Interface Device, Driver=usbhid, 12M\n    |__ Port 14: Dev 9, If 0, Class=Hub, Driver=hub/3p, 480M\n        |__ Port 3: Dev 11, If 0, Class=Wireless, Driver=btusb, 12M\n        |__ Port 3: Dev 11, If 1, Class=Wireless, Driver=btusb, 12M",
+  "usb_devices": "Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub\nBus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub\nBus 002 Device 003: ID 174c:3074 ASMedia Technology Inc. ASM1074 SuperSpeed hub\nBus 002 Device 011: ID 2b03:f880 STEREOLABS ZED 2i\nBus 002 Device 007: ID 2109:0211 VIA Labs, Inc. USB3.0 Hub             \nBus 002 Device 006: ID 2109:0211 VIA Labs, Inc. USB3.0 Hub             \nBus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub\nBus 001 Device 020: ID 32c2:0012 HS6209 2.4G Wireless Receiver\nBus 001 Device 004: ID 174c:2074 ASMedia Technology Inc. ASM1074 High-Speed hub\nBus 001 Device 022: ID 2b03:f881 STEREOLABS ZED-2i HID INTERFACE\nBus 001 Device 018: ID 0424:2512 Microchip Technology, Inc. (formerly SMSC) USB 2.0 Hub\nBus 001 Device 015: ID 2109:2211 VIA Labs, Inc. USB2.0 Hub             \nBus 001 Device 014: ID 2109:2211 VIA Labs, Inc. USB2.0 Hub             \nBus 001 Device 002: ID 0b05:19ac ASUSTek Computer, Inc. USB Audio\nBus 001 Device 011: ID 8087:0032 Intel Corp. AX210 Bluetooth\nBus 001 Device 009: ID 05e3:0610 Genesys Logic, Inc. Hub\nBus 001 Device 010: ID 0b05:879e ASUSTek Computer, Inc. ROG STRIX LC\nBus 001 Device 008: ID 05e3:0610 Genesys Logic, Inc. Hub\nBus 001 Device 005: ID 0b05:18f3 ASUSTek Computer, Inc. AURA LED Controller\nBus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub",
+  "nvidia_smi": "NVIDIA GeForce RTX 3090, 580.178.04",
+  "kernel_camera_log": "dmesg: read kernel buffer failed: Operation not permitted",
+  "zed_diagnostic_file": "/home/ubuntu/ZED_Diagnostic_Results.json",
+  "ros_distro": "humble",
+  "ros_domain_id": "71",
+  "config": {
+    "experiment": {
+      "duration_s": 1800,
+      "target_fps": 30,
+      "width": 1280,
+      "height": 720,
+      "ros_encoding": "bgra8",
+      "ros_topic": "/zed/zed_node/rgb/color/rect/image",
+      "resource_period_s": 1.0,
+      "warmup_timeout_s": 30.0,
+      "inference_url": "http://127.0.0.1:8765",
+      "inference_instruction": "Pick up the orange cube.",
+      "v4l2_device": "auto",
+      "v4l2_width": 2560,
+      "v4l2_height": 720,
+      "v4l2_fourcc": "YUYV",
+      "reference_code": [
+        "/home/ubuntu/a0509_vla_linux_field_bundle_20260903/lhj/phase12_real_policy_rollout/14_real_rollout_integration/real_trials/20261106_171214_current_camera_three_cases/measurement_code.py",
+        "/home/ubuntu/a0509_vla_linux_field_bundle_20260903/lhj/phase12_real_policy_rollout/14_real_rollout_integration/real_trials/20261105_164950_zed_software_validation",
+        "/home/ubuntu/a0509_vla_linux_field_bundle_20260903/lhj/phase12_real_policy_rollout/14_real_rollout_integration/real_trials/20261105_172903_zed_software_validation"
+      ]
+    },
+    "cases": {
+      "A": {
+        "directory": "A_ros_idle",
+        "backend": "ros",
+        "inference": false,
+        "action_preparation": false,
+        "prerequisite": "Model server must already be loaded and /health must succeed; no prediction request is sent."
+      },
+      "B": {
+        "directory": "B_ros_inference",
+        "backend": "ros",
+        "inference": true,
+        "action_preparation": false
+      },
+      "C": {
+        "directory": "C_action_preparation",
+        "backend": "ros",
+        "inference": true,
+        "action_preparation": true
+      },
+      "D": {
+        "directory": "D_sdk_read",
+        "backend": "sdk_read",
+        "retrieve": false,
+        "validity_check": true
+      },
+      "E": {
+        "directory": "E_sdk_grab_retrieve",
+        "backend": "sdk_grab_retrieve",
+        "retrieve": true,
+        "validity_check": true
+      },
+      "F": {
+        "directory": "F_sdk_validity_off",
+        "backend": "sdk_read",
+        "retrieve": true,
+        "validity_check": false
+      },
+      "G": {
+        "directory": "G_opencv_v4l2",
+        "backend": "opencv_v4l2"
+      },
+      "H": {
+        "directory": "H_native_v4l2",
+        "backend": "native_v4l2"
+      }
+    }
+  }
+}

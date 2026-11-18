@@ -1,0 +1,10 @@
+{
+  "case": "C",
+  "status": "COMPLETE",
+  "reason": null,
+  "requested_duration_s": 1800.0,
+  "actual_elapsed_s": 1800.4221982989984,
+  "frame_count": 45830,
+  "physical_commands": 0,
+  "valid_30min_result": true
+}

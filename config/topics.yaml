@@ -1,0 +1,19 @@
+# ZED wrapper 기본 namespace가 다르면 name만 수정하세요.
+defaults:
+  min_rate_ratio: 0.90
+  max_gap_factor: 2.0
+  max_gap_ratio: 0.01
+
+topics:
+  - name: /zed/zed_node/rgb/color/rect/image
+    expected_hz: 30.0
+    required: true
+  - name: /zed/zed_node/depth/depth_registered
+    expected_hz: 30.0
+    required: false
+  - name: /zed/zed_node/point_cloud/cloud_registered
+    expected_hz: 10.0
+    required: false
+  - name: /zed/zed_node/imu/data
+    expected_hz: 100.0
+    required: true

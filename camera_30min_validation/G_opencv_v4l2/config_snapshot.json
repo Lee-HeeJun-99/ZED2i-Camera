@@ -1,0 +1,30 @@
+{
+  "case": "G",
+  "duration_s": 1800.0,
+  "valid_30min_result": true,
+  "case_config": {
+    "directory": "G_opencv_v4l2",
+    "backend": "opencv_v4l2"
+  },
+  "experiment": {
+    "duration_s": 1800,
+    "target_fps": 30,
+    "width": 1280,
+    "height": 720,
+    "ros_encoding": "bgra8",
+    "ros_topic": "/zed/zed_node/rgb/color/rect/image",
+    "resource_period_s": 1.0,
+    "warmup_timeout_s": 30.0,
+    "inference_url": "http://127.0.0.1:8765",
+    "inference_instruction": "Pick up the orange cube.",
+    "v4l2_device": "auto",
+    "v4l2_width": 2560,
+    "v4l2_height": 720,
+    "v4l2_fourcc": "YUYV",
+    "reference_code": [
+      "/home/ubuntu/a0509_vla_linux_field_bundle_20260903/lhj/phase12_real_policy_rollout/14_real_rollout_integration/real_trials/20261106_171214_current_camera_three_cases/measurement_code.py",
+      "/home/ubuntu/a0509_vla_linux_field_bundle_20260903/lhj/phase12_real_policy_rollout/14_real_rollout_integration/real_trials/20261105_164950_zed_software_validation",
+      "/home/ubuntu/a0509_vla_linux_field_bundle_20260903/lhj/phase12_real_policy_rollout/14_real_rollout_integration/real_trials/20261105_172903_zed_software_validation"
+    ]
+  }
+}
